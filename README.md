@@ -1,6 +1,6 @@
-_(Udacity: Data Engineering Nano Degree) | sathwik.maddi@gmail.com
+sathwik.maddi@gmail.com
 
-# PROJECT: Data Warehouse
+# PROJECT: Data Warehousing & ETL for Music Streaming Startup 'Sparkify'
 
 ## Quick start
 
